@@ -1,7 +1,8 @@
 baseURL: https://kangjun8.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Kang's Blog"
+theme: "toha"
 
 # Use Hugo modules to add theme
 module:
